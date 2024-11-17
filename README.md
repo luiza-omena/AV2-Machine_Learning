@@ -2,9 +2,9 @@
 
 ## About the project
 
-Course Name: Aprendizagem de Máquina - 2024.2
-Institution Name: CESAR School
-Group:
+**Course Name:** Aprendizagem de Máquina - 2024.2  
+**Institution Name:** CESAR School
+**Group:**
 - Alycia Lima: @Alycialmf
 - Luiza Omena: @Luiza-omena
 - Nathália M° Accioly: @nathaliaacl
