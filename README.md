@@ -4,6 +4,7 @@
 
 **Course Name:** Aprendizagem de Máquina - 2024.2  
 **Institution Name:** CESAR School
+
 **Group:**
 - Alycia Lima: @Alycialmf
 - Luiza Omena: @Luiza-omena
