@@ -1,4 +1,13 @@
-# AV2 - Machine Learning
+# Machine Learning - 2024.2
+
+## About the project
+
+Course Name: Aprendizagem de Máquina - 2024.2
+Institution Name: CESAR School
+Group:
+- Alycia Lima: @Alycialmf
+- Luiza Omena: @Luiza-omena
+- Nathália M° Accioly: @nathaliaacl
 
 This repository contains a comprehensive analysis of a dataset related to **congenital syphilis cases**, using **Python** for data preparation, visualization, and insights extraction.
 
